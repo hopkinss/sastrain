@@ -1,0 +1,8 @@
+C:\Users\shopkins\source\repos\SasToExcel\SasService\bin\Debug\SasService.dll
+C:\Users\shopkins\source\repos\SasToExcel\SasService\bin\Debug\SasService.pdb
+C:\Users\shopkins\source\repos\SasToExcel\SasService\obj\Debug\Interop.SCRIPTOLib.dll
+C:\Users\shopkins\source\repos\SasToExcel\SasService\obj\Debug\SasService.csproj.ResolveComReference.cache
+C:\Users\shopkins\source\repos\SasToExcel\SasService\obj\Debug\SasService.csproj.CoreCompileInputs.cache
+C:\Users\shopkins\source\repos\SasToExcel\SasService\obj\Debug\SasService.dll
+C:\Users\shopkins\source\repos\SasToExcel\SasService\obj\Debug\SasService.pdb
+C:\Users\shopkins\source\repos\SasToExcel\SasService\obj\Debug\SasService.csprojAssemblyReference.cache
